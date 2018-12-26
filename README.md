@@ -1,5 +1,5 @@
 # automatic-fortnight
-To begin, pick a neighborhood (i.e. choose one along the L-train and sign up on Blackboard).
+For this project, I picked a neighborhood (i.e. chose one along the L-train).
 
 First-Avenue and East 14th Street, Manhattan - (East Village, Stuyvesant Park, Stuyvesant Town)
 Zip Code: 10003,10009
