@@ -1,0 +1,7 @@
+###
+The MTA keeps track of the number of people entering and exiting each station via the turnstiles. 
+Readings of how many people entered and exited are measured every 4 hours. Some stations measure 
+the numbers at midnight, 4am, 8am, noon, 4pm, and 8pm. Others are measured on slightly shifted schedules, 
+but always 4 hours apart. For example, the 68th Street-Hunter College station has each turnstile measured 
+at 1am, 5am, 9am, 1pm, 5pm, and 9pm. These numbers are recorded as cumulative running totals. For example, 
+here is some of the data from the 14 Street- Union Square station for December 21:
