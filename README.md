@@ -1,4 +1,4 @@
-# automatic-fortnight
+# L-train Project
 For this project, I picked a neighborhood along the L-train:
 First-Avenue and East 14th Street, Manhattan - (East Village, Stuyvesant Park, Stuyvesant Town)
 Zip Code: 10003,10009
