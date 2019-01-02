@@ -1,8 +1,7 @@
 # L-train Project
 For this project, I picked a neighborhood along the L-train:
-First-Avenue and East 14th Street, Manhattan - (East Village, Stuyvesant Park, Stuyvesant Town)
-Zip Code: 10003,10009
-
+First-Avenue and East 14th Street, Manhattan - East Village
+Zip Code: 10002, 10003, 10009, 10012
 
 HC 6: Neighborhood geoJSON Map 
 Using the geoJSON mapper, I made a JSON file that includes the following features:
