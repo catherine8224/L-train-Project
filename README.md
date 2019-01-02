@@ -2,10 +2,10 @@
 For this project, I picked a neighborhood along the L-train:
 First-Avenue and East 14th Street, Manhattan - East Village
 
-Zip Code: 10002, 10003, 10009, 10012
 <p align="center">
-![Alt text](eastvillage.png)
+<img src="https://github.com/catherine8224/L-train-Project/blob/master/eastvillage.png?raw=true" alt="East Village's custom image"/>
 </p>
+
 HC 6: Neighborhood geoJSON Map 
 Using the geoJSON mapper, I made a JSON file that includes the following features:
 My L-train neighborhood marked as a region (e.g. polygon),
