@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 +exclude: ['README.md']
 
 
-
+<script src="https://embed.github.com/view/geojson/catherine8224/L-train-Project/master/GeoJSON/map.geojson"></script>
