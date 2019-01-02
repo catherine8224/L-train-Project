@@ -10,7 +10,7 @@ My L-train neighborhood marked as a region (e.g. polygon),
 The L-train (marked as a gray line),
 Other major transportation corridors (e.g. subway lines, major bus routes, or major roads) marked as lines, and
 Transit stops on your subway lines and major bus routes (marked as points).
-![alt text](https://raw.githubusercontent.com/catherine8224/L-train-Project/master/path/to/out.png)
+![alt text](out.png)
 
 HC 7: Highlighted Map
 For this program, I created a highlighted map around my station, with the region within about a 1/4 mile box at full brightness, the region that outside that box at 50% brightness.
