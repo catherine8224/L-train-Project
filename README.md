@@ -19,6 +19,9 @@ For this program, I created a highlighted map around my station, with the region
 HC 8: TurnStile Entries
 /Turnstile
 Using Python and Seaborn package, I made a PNG file of the station usage statistics on the L-train for the week of December 21st, 2018. 
+![Alt text](Turnstile/fig1.png)
+![Alt text](Turnstile/fig2.png)
+![Alt text](Turnstile/fig3.png)
 
 HC 10: Morning Commute Snapshot
 /Morning Commute
