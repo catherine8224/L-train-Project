@@ -26,7 +26,10 @@ Using Python and Seaborn package, I made a PNG file of the station usage statist
 HC 10: Morning Commute Snapshot
 /Morning Commute
 I wrote a program that takes a weekly turnstile data file and makes a graph of all the entries and a graph of all the exits during the morning commute for your L-train station for that data. The x-axis of my histogram was the days of the week, while the bars in my plot was the number of people entering the station between 5am and 9am (i.e. subtract the cumulative total at 5am from the cumulative total at 9am, or the closest 4-hour block measured for your station). Similarly, the bars in the second plot was the exits from my station over the week.
+![Alt text](MorningCommute/snap1.png)
+![Alt text](MorningCommute/snap2.png)
 
 HC 12: Catchments for L-train Stations
 /Subway
 A Voronoi diagram divides a region based on the distance to a set of input points. This simple idea has many applications, one of the most famous was the work of John Snow to study the 1854 cholera outbreak. My focus was to map access to public resources and transit.
+![Alt text](Subway/Subway.html)
