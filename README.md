@@ -2,6 +2,7 @@
 For this project, I picked a neighborhood along the L-train:
 First-Avenue and East 14th Street, Manhattan - East Village
 Zip Code: 10002, 10003, 10009, 10012
+![Alt text](eastvillage.png)
 
 HC 6: Neighborhood geoJSON Map 
 Using the geoJSON mapper, I made a JSON file that includes the following features:
