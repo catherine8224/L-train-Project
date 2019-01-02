@@ -10,13 +10,18 @@ My L-train neighborhood marked as a region (e.g. polygon),
 The L-train (marked as a gray line),
 Other major transportation corridors (e.g. subway lines, major bus routes, or major roads) marked as lines, and
 Transit stops on your subway lines and major bus routes (marked as points).
+![Alt text](geoJSON/map.geojson)
 
 HC 7: Highlighted Map
 For this program, I created a highlighted map around my station, with the region within about a 1/4 mile box at full brightness, the region that outside that box at 50% brightness.
+![Alt text](out.png)
 
 HC 8: TurnStile Entries
 /Turnstile
 Using Python and Seaborn package, I made a PNG file of the station usage statistics on the L-train for the week of December 21st, 2018. 
+![Alt text](Turnstile/fig1.png)
+![Alt text](Turnstile/fig2.png)
+![Alt text](Turnstile/fig3.png)
 
 HC 10: Morning Commute Snapshot
 /Morning Commute
