@@ -10,6 +10,7 @@ My L-train neighborhood marked as a region (e.g. polygon),
 The L-train (marked as a gray line),
 Other major transportation corridors (e.g. subway lines, major bus routes, or major roads) marked as lines, and
 Transit stops on your subway lines and major bus routes (marked as points).
+
 <script src="https://embed.github.com/view/geojson/catherine8224/L-train-Project/master/GeoJSON/map.geojson"></script>
 
 
@@ -27,6 +28,7 @@ Using Python and Seaborn package, I made a PNG file of the station usage statist
 HC 10: Morning Commute Snapshot
 /Morning Commute
 I wrote a program that takes a weekly turnstile data file and makes a graph of all the entries and a graph of all the exits during the morning commute for your L-train station for that data. The x-axis of my histogram was the days of the week, while the bars in my plot was the number of people entering the station between 5am and 9am (i.e. subtract the cumulative total at 5am from the cumulative total at 9am, or the closest 4-hour block measured for your station). Similarly, the bars in the second plot was the exits from my station over the week.
+
 ![Alt text](MorningCommute/snap1.png)
 ![Alt text](MorningCommute/snap2.png)
 
