@@ -38,4 +38,3 @@ HC 12: Catchments for L-train Stations
 /Subway
 A Voronoi diagram divides a region based on the distance to a set of input points. This simple idea has many applications, one of the most famous was the work of John Snow to study the 1854 cholera outbreak. My focus was to map access to public resources and transit.
 http://htmlpreview.github.io/?https://github.com/catherine8224/L-train-Project/blob/master/Subway/Subway.html
-file:///Users/catherineng/Desktop/Python%20Work/Subway_NoLtrain.html
