@@ -18,7 +18,7 @@ Transit stops on your subway lines and major bus routes (marked as points).
 
 HC 7: Highlighted Map
 For this program, I created a highlighted map around my station, with the region within about a 1/4 mile box at full brightness, the region that outside that box at 50% brightness.
-![Alt text](out.png)
+![Alt text](LtrainMap.png)
 
 HC 8: TurnStile Entries
 /Turnstile
